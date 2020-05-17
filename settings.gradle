@@ -1,0 +1,3 @@
+rootProject.name='Sukshi_task'
+include ':app'
+include ':facedetection_lib'
